@@ -1,6 +1,7 @@
 # notas-atletas
 Projeto sugerido pelo curso Devstart do SENAI, Projeto de certificação 1 - Pontuação dos atletas.
-Resumo do projeto
+
+# Resumo do projeto
 
 Crie uma aplicação capaz de receber o nome e as notas de um atleta, calcular a média e apresentar ao usuário.
 
